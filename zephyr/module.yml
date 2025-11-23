@@ -1,4 +1,4 @@
-name: __MODULE_NAME__
+name: app_dns_lib
 
 build:
   cmake: zephyr
